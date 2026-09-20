@@ -1,0 +1,11 @@
+{
+  "name": "images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jimp": "^1.6.1"
+  }
+}
