@@ -17,7 +17,7 @@ function TSlicing (lmin, lmax) {
     return (
       gray < min && MIN ||
       gray > max && MIN ||
-      MAX
+      gray
     )
   }
 

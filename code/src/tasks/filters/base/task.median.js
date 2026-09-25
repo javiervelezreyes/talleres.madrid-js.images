@@ -22,9 +22,9 @@ function TMedian (size) {
         blues .push (pixel.blue)
         alphas.push (pixel.alpha)
       }
-      reds  .sort   (Sort)
+      reds  .sort (Sort)
       greens.sort (Sort)
-      blues .sort  (Sort)
+      blues .sort (Sort)
       alphas.sort (Sort)
 
       return {
